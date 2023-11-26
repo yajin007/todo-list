@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.029097f6.css",
+    "main.js": "/static/js/main.396a1392.js",
+    "static/js/787.30b79000.chunk.js": "/static/js/787.30b79000.chunk.js",
+    "static/media/exoplanets_copy.png": "/static/media/exoplanets_copy.943ac44cb0bb944a4e9c.png",
+    "index.html": "/index.html",
+    "main.029097f6.css.map": "/static/css/main.029097f6.css.map",
+    "main.396a1392.js.map": "/static/js/main.396a1392.js.map",
+    "787.30b79000.chunk.js.map": "/static/js/787.30b79000.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.029097f6.css",
+    "static/js/main.396a1392.js"
+  ]
+}
